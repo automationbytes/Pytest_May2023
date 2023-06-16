@@ -1,3 +1,4 @@
+import allure
 import pytest
 from selenium import webdriver
 from webdriver_manager.firefox import GeckoDriverManager
@@ -7,6 +8,8 @@ from PageObjects.HomePage import HomePage
 from Util.readConfig import readConfig
 from Util.generateLogs import LogGenerator
 from pytest_html_reporter import attach
+from allure_commons.types import AttachmentType
+
 ''''
 https://pypi.org/project/pytest-html/
 pytest -v -s --html-report=../ReportS/report.html
@@ -45,6 +48,7 @@ class TestDemo:
         self.logger.info("-------High to Low----------")
         hp = HomePage(self.driver)
         hp.selectFilterDropdown("Price (high to low)")
+        allure.attach(self.driver.get_screenshot_as_png(), name="Screenshot", attachment_type=AttachmentType.PNG)
 
 
 

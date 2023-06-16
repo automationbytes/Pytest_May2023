@@ -1,10 +1,10 @@
-2023-05-20 11:46:15,389 - INFO : -------Prestep----------
-2023-05-20 11:46:15,389 - INFO : ====== WebDriver manager ======
-2023-05-20 11:46:16,120 - INFO : Driver [C:\Users\Vigne\.wdm\drivers\geckodriver\win64\v0.33.0\geckodriver.exe] found in cache
-2023-05-20 11:46:23,679 - INFO : -------Login----------
-2023-05-20 11:46:24,177 - INFO : -------Verify Logo----------
-2023-05-20 11:46:54,367 - INFO : -------Prestep----------
-2023-05-20 11:46:54,367 - INFO : ====== WebDriver manager ======
-2023-05-20 11:46:54,983 - INFO : Driver [C:\Users\Vigne\.wdm\drivers\geckodriver\win64\v0.33.0\geckodriver.exe] found in cache
-2023-05-20 11:47:13,894 - INFO : -------Login----------
-2023-05-20 11:47:14,777 - INFO : -------High to Low----------
+2023-06-16 17:57:49,347 - INFO : -------Prestep----------
+2023-06-16 17:57:49,347 - INFO : ====== WebDriver manager ======
+2023-06-16 17:57:53,821 - INFO : Driver [C:\Users\Vigne\.wdm\drivers\geckodriver\win64\v0.33.0\geckodriver.exe] found in cache
+2023-06-16 17:58:02,747 - INFO : -------Login----------
+2023-06-16 17:58:03,372 - INFO : -------Verify Logo----------
+2023-06-16 17:58:33,820 - INFO : -------Prestep----------
+2023-06-16 17:58:33,820 - INFO : ====== WebDriver manager ======
+2023-06-16 17:58:37,375 - INFO : Driver [C:\Users\Vigne\.wdm\drivers\geckodriver\win64\v0.33.0\geckodriver.exe] found in cache
+2023-06-16 17:58:45,524 - INFO : -------Login----------
+2023-06-16 17:58:46,108 - INFO : -------High to Low----------
